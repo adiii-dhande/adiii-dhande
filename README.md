@@ -3,9 +3,8 @@
 
 
 # 👋 Hi, I'm Aditya  
-**Data Analyst | SQL | Python | Power BI | Tableau**
-
-📅 Former Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
+**Software & Data Enthusiast | Data Analyst | Python, SQL, Pandas, NumPy, Matplotlib, Power BI, Tableau | MySQL, PostgreSQL | Google Cloud Platform (GCP)**
+📅 Data Analytics Intern @ Codaaz Software Pvt. Ltd. 
 📅 Software Engineer Intern @ LetsGrowMore  
 🎓 B.Tech in Electronics & Telecommunication  
 
