@@ -3,7 +3,7 @@
 
 
 # 👋 Hi, I'm Aditya  
-**Software & Data Enthusiast | Data Analyst | Python, SQL, Pandas, NumPy, Matplotlib, Power BI, Tableau | MySQL, PostgreSQL | Google Cloud Platform (GCP)**
+**Software & Data Enthusiast | 
 📅 Data Analytics Intern @ Codaaz Software Pvt. Ltd. 
 📅 Software Engineer Intern @ LetsGrowMore  
 🎓 B.Tech in Electronics & Telecommunication  
