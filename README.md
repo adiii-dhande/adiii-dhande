@@ -4,10 +4,12 @@
 
 ## Software & Data Enthusiast  
 
-##🧑‍💻About me
-🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
-🧠 Software Engineer Intern @ LetsGrowMore  
-🎓 B.Tech in Electronics & Telecommunication
+## 👩‍💻 About Me
+- 🎓 B.Tech in Electronics & Telecommunication  
+- 📊 Skilled in Python, SQL, MySQL, PostgreSQL, OOP, RDBMS,Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel, Google Cloud Platform (GCP), BigQuery, dbt
+- 🧠 Software Engineer Intern @ LetsGrowMore
+- 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
+- 💡 Passionate about data-driven decision making   
 
 
 ---
