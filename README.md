@@ -3,7 +3,7 @@
 
 
 # 👋 Hi, I'm Aditya  
-**Software & Data Enthusiast | 
+**Software & Data Enthusiast **
 📅 Data Analytics Intern @ Codaaz Software Pvt. Ltd. 
 📅 Software Engineer Intern @ LetsGrowMore  
 🎓 B.Tech in Electronics & Telecommunication  
