@@ -3,6 +3,8 @@
 
 
 ## Software & Data Enthusiast  
+
+##🧑‍💻About me
 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
 🧠 Software Engineer Intern @ LetsGrowMore  
 🎓 B.Tech in Electronics & Telecommunication
