@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication  
-- 📊 Skilled in Python, SQL, MySQL, PostgreSQL, OOP, RDBMS,Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel, Google Cloud Platform (GCP), BigQuery, dbt
+- 📊 Skilled in Python, SQL, MySQL,, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
 - 🧠 Software Engineer Intern @ LetsGrowMore
 - 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
 - 💡 Passionate about data-driven decision making   
