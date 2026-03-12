@@ -6,10 +6,21 @@
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication  
-- 📊 Skilled in Python, SQL, MySQL,, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
+- 📊 Skilled in Python, SQL, MySQL, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
 - 🧠 Software Engineer Intern @ LetsGrowMore
 - 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
 - 💡 Passionate about data-driven decision making   
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="MYSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="BigQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Matplotlib" width="40" height="40"/>
+</p>
 
 
 ## 🔗 Connect With Me
