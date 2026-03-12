@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=I'm+a+Data+Analyst;I'm+a+Business+Intelligence+(BI)+Analyst;I'm+a+Reporting+Analyst;I'm+a+Data+Visualization+Specialist;I'm+an+Operations+Analyst;I'm+a+Junior+Data+Engineer;I'm+an+ETL+Developer;I'm+a+Database+Developer;I'm+an+Entry-level+Cloud+Data+Engineer)](https://git.io/typing-svg)
 
 
-# 👋 Hi, I'm Aditya  
-**Software & Data Enthusiast **
-📅 Data Analytics Intern @ Codaaz Software Pvt. Ltd. 
-📅 Software Engineer Intern @ LetsGrowMore  
-🎓 B.Tech in Electronics & Telecommunication  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF5733&center=true&vCenter=true&lines=Software+%26+Data+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00BFFF&center=true&vCenter=true&lines=🧠+Data+Analytics+Intern+@+Codaaz+Software+Pvt.+Ltd.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=32CD32&center=true&vCenter=true&lines=🧠+Software+Engineer+Intern+@+LetsGrowMore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FFD700&center=true&vCenter=true&lines=🎓+B.Tech+in+Electronics+%26+Telecommunication)](https://git.io/typing-svg)
+ 
 
 ---
 
