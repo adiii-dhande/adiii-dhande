@@ -1,5 +1,5 @@
 ## Hi I'm Aditya👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=I'm+a+Data+Analyst;I'm+skilled+in+SQL,+Python,+Power+BI,+Tableau;I'm+experienced+with+BigQuery+and+dbt;I'm+building+interactive+dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=I'm+a+Data+Analyst;I'm+in+SQL,+Python,+Power+BI,+Tableau;I'm+experienced+with+BigQuery+and+dbt;I'm+building+interactive+dashboards)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Aditya  
 **Data Analyst | SQL | Python | Power BI | Tableau**
@@ -53,5 +53,3 @@
 
 ---
 
-## 📈 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiii-dhande&show_icons=true&theme=radical)
