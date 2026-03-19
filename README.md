@@ -7,6 +7,7 @@
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication  
 - 📊 Skilled in Python, SQL, MySQL, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
+- McKinsey Forward ’26 
 - 🧠 Software Engineer Intern @ LetsGrowMore
 - 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
 - 💡 Passionate about data-driven decision making   
