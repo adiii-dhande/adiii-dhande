@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication  
 - 📊 Skilled in Python, SQL, MySQL, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
-- McKinsey Forward ’26 
+- 🏆 McKinsey Forward '26 
 - 🧠 Software Engineer Intern @ LetsGrowMore
 - 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.  
 - 💡 Passionate about data-driven decision making   
@@ -36,7 +36,10 @@
   <img src="https://avatars.githubusercontent.com/u/49998085?s=200&v=4" alt="dbt" width="40" height="40"/>
 </p>
 
-
+##Certification:
+- 🎓 Google Advanced Data Analytics — Coursera
+- 🐍 Python for Everybody — Coursera (University of Michigan)
+- 📊 Career Essentials in Data Analysis — Microsoft & LinkedIn
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
