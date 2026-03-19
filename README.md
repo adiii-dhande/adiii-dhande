@@ -40,7 +40,7 @@
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
 - [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: adityadhande35@gmail.com  
+- 📧 Email: adidhande35@gmail.com  
 
 ---
 
