@@ -43,7 +43,7 @@
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [Portfolio]((https://adidhande.lovable.app/))  
 - 📧 Email: adidhande35@gmail.com  
 
 ---
