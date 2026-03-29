@@ -42,9 +42,10 @@
 - 📊 Career Essentials in Data Analysis — Microsoft & LinkedIn
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio]((https://adidhande.lovable.app/))  
-- 📧 Email: adidhande35@gmail.com  
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-dhande-17a851255/)
+- [Portfolio](https://adidhande.lovable.app/)
+- 📧 Email: adityadhande35@gmail.com
 
 ---
 
