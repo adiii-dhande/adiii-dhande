@@ -7,7 +7,8 @@
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication  
 - 📊 Skilled in Python, SQL, MySQL, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
-- 🏆 McKinsey Forward '26 
+- 🏆 McKinsey Forward '26
+- 🧠 Data Engineer Intern @ TRIVENIUM INDUSTRIES
 - 🧠 Analyst @ TRIVENIUM INDUSTRIES
 - 🧠 Data Analyst Intern @ Codaaz Software Pvt. Ltd.  
 - 💡 Passionate about data-driven decision making   
