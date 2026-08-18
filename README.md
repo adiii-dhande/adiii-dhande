@@ -8,9 +8,8 @@
 - 🎓 B.Tech in Electronics & Telecommunication  
 - 📊 Skilled in Python, SQL, MySQL, OOP, Pandas, NumPy, Matplotlib, Power BI, Tableau, Google Cloud Platform, BigQuery, dbt
 - 🏆 McKinsey Forward '26
-- 🧠 Data Engineer Intern @ TRIVENIUM INDUSTRIES
-- 🧠 Analyst @ TRIVENIUM INDUSTRIES
-- 🧠 Data Analyst Intern @ Codaaz Software Pvt. Ltd.  
+- 🧠 Data Analytics Intern @ Codaaz Software Pvt. Ltd.
+- 🧠 Data Engineer Intern @ LetsGrowMore  
 - 💡 Passionate about data-driven decision making   
 
 ## Languages and Tools:
