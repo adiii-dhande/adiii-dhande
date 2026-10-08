@@ -1,5 +1,5 @@
 ## Hi, I'm Aditya 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=I'm+a+Data+Engineer;+Data+Analyst;I+build+ETL+and+ELT+pipelines;I+work+with+SQL,+Python,+dbt+and+Snowflake;I+turn+raw+data+into+reporting-ready+data;I'm+also+a+Data+Analyst+(Power+BI+%26+Tableau))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=I'm+a+Data+Engineer;I'm+a+Data+Analyst;I'm+a+Analyst:I'm+a+Ai+Engineer;I+build+ETL+and+ELT+pipelines;I+work+with+SQL,+Python,+dbt+and+Snowflake;I+turn+raw+data+into+reporting-ready+data;I'm+also+a+Data+Analyst+(Power+BI+%26+Tableau))](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Electronics & Telecommunication
