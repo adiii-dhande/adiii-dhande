@@ -148,25 +148,51 @@ End-to-end **cloud ELT pipeline**: 5.7K+ Airbnb records (bookings, listings, hos
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adiii-dhande/REPLACE-WITH-AIRBNB-REPO-NAME)
+[![View Repo](https://img.shields.io/badge/View%20Repo-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adiii-dhande/Airbnb-Snowflake-dbt-Pipeline)
 
 </td>
     <td width="50%" valign="top">
 
 ### 🛒 E-Commerce Customer & Sales Analytics
-Full analytics workflow: **SQL analysis** and **Pandas cleaning** to an **interactive Power BI dashboard** with DAX KPIs.
+Full analytics workflow: **Pandas cleaning**, **MySQL analysis** and an **interactive Power BI dashboard** with DAX KPIs, on 128 fictional transaction lines (Jan to Oct 2025).
 
 - 🧹 Cleaned missing values, duplicates, cancelled & inconsistent records
 - 🔎 Revenue trends, top products, repeat-purchase behavior
-- 🌍 Country-level sales insights
-- 📊 DAX KPIs: revenue, customers, products, cancellations
+- 🌍 Country-level sales insights with a country tile slicer
+- 📊 DAX KPIs: net revenue, orders, customers, AOV, plus month-over-month trend badges
+- 📝 Documented KPI definitions, assumptions, findings and recommendations
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adiii-dhande/REPLACE-WITH-ECOMMERCE-REPO-NAME)
+[![View Repo](https://img.shields.io/badge/View%20Repo-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adiii-dhande/E-Commerce-Customer-Sales-Analytics)
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🤖 Agentic AI Data Pipeline Assistant &nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-FFB300?style=flat-square)
+AI-powered data engineering assistant that uses an LLM agent to automate data ingestion, cleaning, validation, SQL generation and pipeline troubleshooting through natural-language instructions.
+
+- 🧠 Natural-language to pipeline / SQL generation
+- 📂 Automated dataset ingestion & schema profiling
+- 🧹 AI-assisted cleaning & data-quality detection
+- 🔍 Automated validation & pipeline error analysis
+- ⚡ SQL generation and query optimization
+- 🔄 Agent workflow: plan → execute → validate → report
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF4F8B?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C2A8?style=flat-square&logo=robotframework&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/adiii-dhande/Agentic-AI-Data-Pipeline-Assistant)
 
 </td>
   </tr>
@@ -202,20 +228,12 @@ Full analytics workflow: **SQL analysis** and **Pandas cleaning** to an **intera
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adiii-dhande/adiii-dhande/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](REPLACE-WITH-YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](REPLACE-WITH-YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dhande-17a851255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adittyyad.lovable.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadhande35@gmail.com)
 
 <br/>
@@ -225,4 +243,3 @@ SELECT 'Let''s build scalable data pipelines for AI' AS message;
 ```
 
 </div>
-
